@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">防走丢客户端</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">谷歌朗读组件</string>
+    <string name="btn_start">启动服务</string>
+    <string name="ben_alias">设置别名</string>
+	<string name="ben_exit">隐藏本程序后台运行</string>
+	 <string name="s_setup"> 请点击获取设备号按钮</string>
+    <string name="btn_check">检查设别条件</string>
+    <string name="btn_zhuce">获取设别号</string>
+    <string name="btn_fanyi">朗读文字</string>
+</resources>
